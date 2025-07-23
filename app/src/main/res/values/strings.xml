@@ -1,0 +1,7 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <!-- Tu ID de cliente web para Google Sign-In (obtenido de Google Cloud Console) -->
+    <string name="default_web_client_id" translatable="false">TU_ID_DE_CLIENTE_WEB_AQUÍ.apps.googleusercontent.com</string>
+    <!-- Asegúrate de reemplazar "TU_ID_DE_CLIENTE_WEB_AQUÍ" con tu ID real -->
+    <string name="app_name">Sin Riesgo</string>
+</resources>

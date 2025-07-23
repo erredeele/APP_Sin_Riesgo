@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422094768150",
+    "project_id": "sin-riesgo-a3960",
+    "storage_bucket": "sin-riesgo-a3960.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422094768150:android:80cc72fe2b7ef9b4278d37",
+        "android_client_info": {
+          "package_name": "com.example.Sin_Riesgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422094768150-l36mm2v2upj65m6c2u1j8fcld7l15ull.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Sin_Riesgo",
+            "certificate_hash": "77c90e6db48467d04523f2b7688b79f1947aa257"
+          }
+        },
+        {
+          "client_id": "422094768150-msiinp00h3mmiovn4gq6dd8f51vf91bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_JeR5l9iIUPNJ44QXGyoiZetATP2QH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422094768150-msiinp00h3mmiovn4gq6dd8f51vf91bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
